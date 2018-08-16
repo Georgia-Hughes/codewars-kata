@@ -10,3 +10,4 @@
 - [Split in Parts](/tests/kata8.splitInParts.js)
 - [Convert Number to String](/tests/kata9.convertNumberToString.js)
 - [Even or Odd](/tests/kata10.evenOrOdd.js)
+- [If You Can't Sleep, Count Sheep](/tests/kata11.ifYouCantSleepCountSheep.js)
