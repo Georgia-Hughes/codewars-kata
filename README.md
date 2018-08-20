@@ -18,4 +18,4 @@
 - [String Repeat](/tests/kata16.stringRepeat.js)
 - [Find Smallest Integer](/tests/kata17.findSmallestInteger.js)
 - [Boolean To Word](/tests/kata18.booleanToWord.js)
-- [Jenny's Secret Message](/tests/kata19.jenntsSecretMessage.js)
+- [Jenny's Secret Message](/tests/kata19.jennysSecretMessage.js)
