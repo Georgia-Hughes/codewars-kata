@@ -19,6 +19,3 @@
 - [Find Smallest Integer](/tests/kata17.findSmallestInteger.js)
 - [Boolean To Word](/tests/kata18.booleanToWord.js)
 - [Jenny's Secret Message](/tests/kata19.jenntsSecretMessage.js)
-- [](/tests/)
-- [](/tests/)
-- [](/tests/)
